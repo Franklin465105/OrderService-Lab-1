@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-@FeignClient(name = "catalog-service", url = "https://localhost:8081")
+@FeignClient(name = "catalog-service", url = "http://localhost:8081")
 @Service
 public interface CatalogClient
 {
