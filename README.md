@@ -41,3 +41,5 @@ The productId in an order refers to a product that belongs to the Catalog Servic
 
 Current Version
 This is Lab 1, so the service currently uses temporary in-memory storage. JPA and a database will be added later.
+
+https://dbfiddle.uk/Qs5rl21J
